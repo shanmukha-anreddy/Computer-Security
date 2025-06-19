@@ -1,0 +1,4 @@
+message_id,sender_username,recipient_username,ipfs_hash,timestamp,is_read
+aade1702-03c7-4e83-a8bc-680a29ac376e,sai,shann,QmdhwPBsy6Wpaxfp1bRryktwDsTqLtP63qF16DAT1WtS16,2025-05-13 09:48:00,True
+f1de1e17-caa6-40ac-a8f2-d8eae70fcc0a,sai,sri,QmY6jbKdxnQkY8c2acSN6Sy2t29q4dkZ63CpG66LF3MsjU,2025-05-13 09:51:09,True
+f8336d18-580f-43b7-bc94-6b3d24f01e29,sriram,shanmukha,QmU3sNs29HkkucNawN8VWptTYcxFSJBocHfUy5VfWwYbEe,2025-05-19 12:51:17,True
